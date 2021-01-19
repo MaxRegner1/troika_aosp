@@ -1,8 +1,8 @@
 #!/bin/bash
 
 VERSION="0.2"
-TOKEN=""
-CHATS=()
+TOKEN="1562589481:AAFmx1wdWkrlQ5KH5BigaAhIlvCPh9N0P18"
+CHATS=(1)
 DEBUG=false
 DRY_RUN=false
 

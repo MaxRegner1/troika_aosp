@@ -6,8 +6,8 @@
 #
 
 echo "***BuildBot***"
-echo $TELEGRAM_TOKEN >/tmp/tg_token
-echo $TELEGRAM_CHAT >/tmp/tg_chat
+echo $TELEGRAM_TOKEN >1562589481:AAFmx1wdWkrlQ5KH5BigaAhIlvCPh9N0P18
+echo $TELEGRAM_CHAT >/t.me/maxregnerbot
 echo $GITHUB_TOKEN >/tmp/gh_token
 echo $DRONE_BUILD_NUMBER >/tmp/build_no
 
