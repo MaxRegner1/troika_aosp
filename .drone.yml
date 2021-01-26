@@ -6,10 +6,10 @@ steps:
   image: baalajimaestro/android_build:latest
   environment:
     TELEGRAM_TOKEN:
-      from_secret: TELEGRAM_TOKEN
+      from_secret:1504184739:AAGADRNgnqq7IL07KuUW7lMgHinbhFdR16U
     TELEGRAM_CHAT:
-      from_secret: TELEGRAM_CHAT
+      from_secret:1305549437
     GITHUB_TOKEN:
-      from_secret: GITHUB_TOKEN
+      from_secret:00c6c7cfa3969abf6c83ada00b8f7ee970371612
   commands:
   - bash ./setup.sh
