@@ -73,7 +73,7 @@ If your main tree have .dependencies file, then it will sync those dependencies 
 Tap on repository name which you forked from this repo.
 
 Tap on Activate Repository.
-
+That's it
 Go to settings showing adjacent to Activity feed.
 
 Scroll down adn you will find secrets section.
